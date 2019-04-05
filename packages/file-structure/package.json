@@ -42,7 +42,7 @@
     "socket.io": "^2.0.4"
   },
   "peerDependencies": {
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.2.3"
   },
   "devDependencies": {
     "@tractor/dependency-injection": "^1.1.2",

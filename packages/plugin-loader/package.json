@@ -43,7 +43,7 @@
     "title-case": "^2.1.1"
   },
   "peerDependencies": {
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.2.3"
   },
   "devDependencies": {
     "@tractor/config-loader": "^1.1.2",

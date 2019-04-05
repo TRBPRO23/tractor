@@ -37,7 +37,7 @@
     "npmlog": "^4.1.2"
   },
   "peerDependencies": {
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.2.3"
   },
   "devDependencies": {
     "@tractor/unit-test": "^1.1.2",

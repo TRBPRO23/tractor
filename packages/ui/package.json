@@ -32,7 +32,7 @@
     "build": "src/**/*.js"
   },
   "peerDependencies": {
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.2.3"
   },
   "devDependencies": {
     "@uirouter/angularjs": "1.0.3",

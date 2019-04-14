@@ -34,7 +34,7 @@
     "build": "src/**/*.ts"
   },
   "peerDependencies": {
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.3.0"
   },
   "devDependencies": {
     "@tractor/error-handler": "^1.1.2",

@@ -113,7 +113,7 @@
 		"lodash.debounce": "^4.0.8",
 		"lodash.defaults": "^4.2.0",
 		"lodash.template": "^4.4.0",
-		"mochawesome": "^3.0.3",
+		"mochawesome": "^3.1.2",
 		"monkeypatch": "^1.0.0",
 		"ng-sortable": "1.2.2",
 		"normalize.css": "3.0.3",

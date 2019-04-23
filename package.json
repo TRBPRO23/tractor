@@ -94,7 +94,7 @@
 		"express": "^4.16.4",
 		"express-http-proxy": "^1.5.1",
 		"fake-xml-http-request": "^1.6.0",
-		"fetch-mock": "^5.13.1",
+		"fetch-mock": "^7.3.3",
 		"find-up": "^3.0.0",
 		"graceful-fs": "^4.1.15",
 		"gulp": "3.9.1",

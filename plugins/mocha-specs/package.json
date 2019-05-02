@@ -55,6 +55,6 @@
   },
   "peerDependencies": {
     "@tractor-plugins/page-objects": "^1.0.0",
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.4.0"
   }
 }

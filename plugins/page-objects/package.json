@@ -48,6 +48,6 @@
     "pascal-case": "^2.0.1"
   },
   "peerDependencies": {
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.5.0"
   }
 }

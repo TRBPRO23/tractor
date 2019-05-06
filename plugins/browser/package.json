@@ -40,6 +40,6 @@
     "@tractor/unit-test": "^1.1.2"
   },
   "peerDependencies": {
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.5.0"
   }
 }

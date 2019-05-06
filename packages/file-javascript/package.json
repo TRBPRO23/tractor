@@ -40,7 +40,7 @@
     "esquery": "^1.0.1"
   },
   "peerDependencies": {
-    "@tractor/core": "^1.0.0"
+    "@tractor/core": "^1.5.0"
   },
   "devDependencies": {
     "@tractor/file-structure": "^1.2.3",
